@@ -1,0 +1,2 @@
+# NeuralNetworks-FuzzyLogic
+Assignment data
